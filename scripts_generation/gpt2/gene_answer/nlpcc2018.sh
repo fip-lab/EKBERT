@@ -1,0 +1,9 @@
+#! /bin/bash
+
+cd ..
+cd ..
+cd ..
+cd gpt2
+cd gene_answer
+
+python nlpcc2018.py

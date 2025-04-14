@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e0860715-f505-48e6-b7aa-7400df4d4477" name="中山学院xuzh (project level)">
+        <fileTransfer accessType="SFTP" host="210.38.224.111" port="22" sshConfigId="18f8e3f5-5288-4533-abaf-d1af12ef9135" sshConfig="中山学院xuzh">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

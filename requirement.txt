@@ -1,0 +1,4 @@
+#! /bin/bash
+pip install transformers==2.9.0
+pip install loguru
+pip install pkuseg
